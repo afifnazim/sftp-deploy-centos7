@@ -27,4 +27,4 @@ docker run -d --name sftp-server -p 2036:22 sftp-image
 In the above command we can change the ``--name`` tag as per our project
 
 ### Test the container
-To test the container we can access it using browser and exposed port ``http://localhost:2036`` And we should be promted to put our sftp-user and password.
+To test the container we can access it using browser and exposed port ``http://localhost:2036`` and we should be promted to put our sftp-user and password.
