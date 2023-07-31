@@ -9,3 +9,4 @@ Dockerfile is provided in another file in this repo.
 - The ```openssh-server``` is needed to allow ssh/sftp/scp service inside the container
 - ``useradd`` command is used to create new user
 - ``sftppasswordhere`` parameter is used to add secured password for the sftp-user
+- 
